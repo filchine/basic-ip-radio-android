@@ -19,7 +19,7 @@ A basic Android radio station management app built with Flutter.
 ### Installation
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/filchine/basic-ip-radio-client-android.git
+    git clone https://github.com/filchine/basic-ip-radio-android.git
     ```
 2.  Install dependencies:
     ```bash
