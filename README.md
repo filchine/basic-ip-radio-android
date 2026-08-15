@@ -6,7 +6,7 @@ A basic Android radio station management app built with Flutter.
 *   **Material 3 UI**: Modern and clean interface with dynamic light/dark themes.
 *   **Background Playback**: Audio streaming that continues even when the app is in the background or the screen is off.
 *   **Station Management**: Easily add, edit, or remove your favorite IP radio stations.
-*   **SQLite Persistence**: Your custom station list and preferences are saved locally on your device.
+*   **Persistence**: Your custom station list and preferences are saved locally on your device using SQLi.
 *   **Smart Reordering**: Organize your station list with intuitive drag-and-drop support.
 
 ##  Getting Started
